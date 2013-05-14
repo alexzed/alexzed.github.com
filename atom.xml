@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[harchiko]]></title>
+  <link href="http://alexzed.github.io/atom.xml" rel="self"/>
+  <link href="http://alexzed.github.io/"/>
+  <updated>2013-05-14T21:58:31+08:00</updated>
+  <id>http://alexzed.github.io/</id>
+  <author>
+    <name><![CDATA[alexzed]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[just for test]]></title>
+    <link href="http://alexzed.github.io/blog/2013/05/14/just-for-test/"/>
+    <updated>2013-05-14T20:15:00+08:00</updated>
+    <id>http://alexzed.github.io/blog/2013/05/14/just-for-test</id>
+    <content type="html"><![CDATA[<h1>as is just for testing</h1>
+
+<h2>i will just type something</h2>
+]]></content>
+  </entry>
+  
+</feed>
